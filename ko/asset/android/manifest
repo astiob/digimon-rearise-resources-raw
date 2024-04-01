@@ -1,5 +1,5 @@
 {
-	"version": "2022-02-15 01:05:52",
+	"version": "2024-04-01 09:32:06",
 	"resources": [
 		{
 			"name": "action/c031_friendship_skill",
@@ -40436,6 +40436,15 @@
 			"hash": "D5AAD5E91A767804F374915894075EBD",
 			"size": 1170061,
 			"crc": 1611864340,
+			"dependencies": [
+				"digimon/shadow/digimon_shadow"
+			]
+		},
+		{
+			"name": "digimon/model/chr027pink",
+			"hash": "073FCA8FEFD9D31035DBF07D0FBC289E",
+			"size": 1453549,
+			"crc": 502154291,
 			"dependencies": [
 				"digimon/shadow/digimon_shadow"
 			]
